@@ -1,6 +1,6 @@
 var x = 10; // Defining global variable and assinging a value
+var a = 15; // Defining global variable and assinging a value
 function localVar() { // Defining a function and gining it a name
-    var a = 15; // Defining local variable and assinging a value
     console.log("Local variable is " + a); // Printing a message in a console
 }
 function addVars() { // Defining a function and gining it a name
