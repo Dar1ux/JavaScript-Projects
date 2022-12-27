@@ -1,0 +1,29 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>jQuery</title>
+    <script src="http://code.jquery.com/jquery-latest.min.js"></script> <!-- Referencing jQuery library -->
+  </head>
+
+  <script>
+    $(document).ready(function() { // Initiating a function once document is in ready state
+        $("html").append( // Appending following html code to html document
+            "<body>\
+                <div id='container'>\
+                    <div id='inner'>\
+                        <h1>Basic jQuery</h1>\
+                        <p id='1'>Paragraph 1</p>\
+                        <p id='2'>Paragraph 2</p>\
+                        <p id='3'>Click here to hide header</p>\
+                    </div>\
+                </div>\
+            </body>"
+        );
+        $("#2").css({"color":"red"}); // Targeting html element with id '2' and changing its color
+        $("#3").click(function() { // Initiating a function once html element with id '3' has been clicked 
+            $("h1").hide(); // Executing hide method on 'h1' element
+        })
+    });
+  </script>
+</html>
