@@ -20,4 +20,4 @@ The classic game of tic-tac-toe. It has sound effects. AI opponent places its ma
 App lets you create a To-Do list, which is saved locally. You can remove items from a list by pressing on 'X' button next to the entry and the n the list is re-arranged to avoid having gaps in a list.
 
 ---
-You can also find multiple other excersies completed as part of the course.
+You can also find multiple other excersises completed as part of the course.
