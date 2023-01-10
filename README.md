@@ -10,10 +10,10 @@ This is a display of sample JavaScript Projects that I made for Pitman Training.
 This is a display of sample websites that I made using HTML and CSS.
 
 ## Projects
-* [Calculator](https://github.com/Dar1ux/JavaScript-Projects/tree/main/Basic%20JavaScript%20Projects/Calculator target="_blank")
-* [Pizza Menu](https://github.com/Dar1ux/JavaScript-Projects/tree/main/Basic%20JavaScript%20Projects/Pizza_Project target="_blank")
-* [TicTacToe Game](https://github.com/Dar1ux/JavaScript-Projects/tree/main/Basic%20JavaScript%20Projects/TicTacToe target="_blank")
-* [ToDo App](https://github.com/Dar1ux/JavaScript-Projects/tree/main/Basic%20JavaScript%20Projects/todo_app target="_blank")
+* [Calculator](https://github.com/Dar1ux/JavaScript-Projects/tree/main/Basic%20JavaScript%20Projects/Calculator)
+* [Pizza Menu](https://github.com/Dar1ux/JavaScript-Projects/tree/main/Basic%20JavaScript%20Projects/Pizza_Project)
+* [TicTacToe Game](https://github.com/Dar1ux/JavaScript-Projects/tree/main/Basic%20JavaScript%20Projects/TicTacToe)
+* [ToDo App](https://github.com/Dar1ux/JavaScript-Projects/tree/main/Basic%20JavaScript%20Projects/todo_app)
 
 ### Calculator
 A basic 4 function calculator. User can add, subtract, multiply and divide on a web version of a calculator.
