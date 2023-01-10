@@ -10,7 +10,7 @@ This is a display of sample JavaScript Projects that I made for Pitman Training.
 This is a display of sample websites that I made using HTML and CSS.
 
 ## Projects
-* [Calculator](https://github.com/Dar1ux/JavaScript-Projects/tree/main/Basic%20JavaScript%20Projects/Calculator title="Test")
+* [Calculator](https://github.com/Dar1ux/JavaScript-Projects/tree/main/Basic%20JavaScript%20Projects/Calculator)
 * [Pizza Menu](https://github.com/Dar1ux/JavaScript-Projects/tree/main/Basic%20JavaScript%20Projects/Pizza_Project)
 * [TicTacToe Game](https://github.com/Dar1ux/JavaScript-Projects/tree/main/Basic%20JavaScript%20Projects/TicTacToe)
 * [ToDo App](https://github.com/Dar1ux/JavaScript-Projects/tree/main/Basic%20JavaScript%20Projects/todo_app)
